@@ -3,7 +3,7 @@
   <!-- Animasi Kucing Ngetik (Bongo Cat) -->
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Bongo Cat Coding">
   
-  # Hi there, I'm [Nama Kamu]! 👋
+  # Hi there, I'm Asep Hernandi! 👋
   
   **✨ Fullstack Developer | Web3 Enthusiast | Coffee Consumer ✨**
   
