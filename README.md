@@ -46,6 +46,7 @@
 <br/>
 
 ## github stats
+<div align="center">
 <table>
   <tr>
     <td width="100%" align="center">
@@ -53,6 +54,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
