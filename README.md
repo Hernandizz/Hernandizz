@@ -23,13 +23,12 @@
 <br/>
 
 ## 🛠️ Tech Stack
+<div align="center">
   <!-- Icon dari Skillicons yang sangat populer dan cantik -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,solidity,ipfs,git,docker&perline=6" />
   </a>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kasim-anwar/kasim-anwar/main/assets/pacman-divider.gif" width="100%" alt="Pacman Divider">
@@ -49,11 +48,8 @@
 ## github stats
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=herbiforaaaa&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
