@@ -5,12 +5,14 @@
   
   # Hi there, I'm Asep Hernandi! 👋
   
-  **✨ Fullstack Developer | Web3 Enthusiast | Coffee Consumer ✨**
+  **✨ Fullstack Developer | Web3 Enthusiast | Coding Enthusiast | UI/UX | SaaS Builder | Data Analyst ✨**
   
   <p align="center">
-    Saya suka merancang sesuatu yang hidup di internet! Mulai dari sistem <i>decentralized ledger</i> untuk desa, sampai aplikasi web yang interaktif. Kalau lagi nggak ngoding, saya biasanya lagi nyari <i>bug</i> nakal, nyoba-nyoba AI terbaru, atau nyari kopi enak ☕.
-  </p>
-  
+  <a href="https://netflix.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.tiktok.com/@herbiforaaaa"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:hernandieee@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+</p>
+
   <br/>
   
   <!-- Pacman Divider -->
@@ -18,18 +20,13 @@
 
 </div>
 
-### 🎮 What I'm Up To
-- 🔭 **Sedang membangun:** [HomeChain](https://github.com/YOUR_GITHUB_USERNAME/Homechain) — Ledger dana desa desentralisasi dengan fitur audit AI dari Gemini!
-- 🌱 **Sedang belajar:** Keamanan Smart Contract & AI Prompt Engineering.
-- 👯 **Terbuka untuk kolaborasi:** Proyek Open-source Web3, aplikasi React yang seru, atau UI/UX.
-- 💬 **Tanya saya tentang:** JavaScript, Next.js, Solidity, dan cara bikin UI yang <i>smooth</i>.
-- ⚡ **Fakta unik:** Kecepatan ngoding saya bertambah 50% kalau ditemenin kucing dan dengerin musik Lo-Fi.
+
 
 <br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
-  <h3>🛠️ Tech Toolbox Saya</h3>
+  <h3>🛠️ Tech Stack</h3>
   <!-- Icon dari Skillicons yang sangat populer dan cantik -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,solidity,ipfs,git,docker&perline=6" />
@@ -41,9 +38,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kasim-anwar/kasim-anwar/main/assets/pacman-divider.gif" width="100%" alt="Pacman Divider">
 </div>
-
-### 🐍 GitHub Contribution Snake (Pacman Style!)
-*Animasi ini akan bergerak dan "memakan" grafik kontribusi GitHub saya!*
 
 <div align="center">
   <!-- Ini akan memunculkan gambar animasi Snake yang nge-track aktivitas GitHub -->
@@ -71,8 +65,7 @@
   ### 📬 Let's Connect!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asephernandi17@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernandieee@gmail.com)
   
   <br/><br/>
-  <i>"It works on my machine... probably 🤷‍♂️"</i>
 </div>
