@@ -20,13 +20,9 @@
 
 </div>
 
-
-
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
-  <h3>🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
   <!-- Icon dari Skillicons yang sangat populer dan cantik -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,solidity,ipfs,git,docker&perline=6" />
@@ -50,19 +46,21 @@
 
 <br/>
 
-<div align="center">
-  ### 📈 GitHub Stats
-  <!-- Stats Card dengan tema Tokyo Night yang kalem dan cantik -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+## github stats
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kasim-anwar/kasim-anwar/main/assets/pacman-divider.gif" width="100%" alt="Pacman Divider">
-  
-  ### 📬 Let's Connect!
+## 📬 Let's Connect!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernandieee@gmail.com)
