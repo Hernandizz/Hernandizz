@@ -13,13 +13,6 @@
   <a href="mailto:hernandieee@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
 </p>
 
-  <br/>
-  
-  <!-- Pacman Divider -->
-  <img src="https://raw.githubusercontent.com/kasim-anwar/kasim-anwar/main/assets/pacman-divider.gif" width="100%" alt="Pacman Divider">
-
-</div>
-
 <br/>
 
 ## 🛠️ Tech Stack
@@ -28,10 +21,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,solidity,ipfs,git,docker&perline=6" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kasim-anwar/kasim-anwar/main/assets/pacman-divider.gif" width="100%" alt="Pacman Divider">
 </div>
 
 <div align="center">
