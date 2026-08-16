@@ -66,9 +66,9 @@
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hernandizz/Hernandizz/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hernandizz/Hernandizz/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hernandizz/Hernandizz/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hernandizz/Hernandizz/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hernandizz/Hernandizz/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hernandizz/Hernandizz/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
