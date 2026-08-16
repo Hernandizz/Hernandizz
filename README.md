@@ -83,7 +83,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Hernandizz/Hernandizz/activity-graph-output/activity-graph.svg?radius=15&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hernandizz&radius=15&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
