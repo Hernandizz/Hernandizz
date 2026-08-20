@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate activity-graph.svg
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: radius=15&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true
