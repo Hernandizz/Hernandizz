@@ -72,7 +72,7 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Hernandizz&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hernandizz&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Hernandizz/Hernandizz/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
